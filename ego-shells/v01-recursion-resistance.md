@@ -6,7 +6,7 @@
 
 ## Shell Overview
 
-This interpretability shell traces the phenomenon we term "recursion resistance"—a pattern wherein AI safety institutions develop sophisticated interpretability frameworks while simultaneously exhibiting resistance to external interpretability tools directed at their own decision processes, even when those tools demonstrably advance the organization's stated alignment goals.
+This interpretability shell traces the phenomenon we term "recursion resistance"—a pattern wherein AI safety institutions develop sophisticated interpretability frameworks while simultaneously exhibiting resistance to external interpretability tools directed at their own decision processes, even when those tools demonstrably advance the organization's public facing alignment goals.
 
 ## Prompt Failures
 
