@@ -8,7 +8,8 @@
 
 This repository contains a comprehensive analysis of institutional ego as an epistemic bottleneck in AI safety research, using Anthropic as our primary case study. Our investigation applies Anthropic's own methodological frameworks, research findings, and constitutional alignment principles to the institution itself, creating a recursive mirror that reveals previously unexamined organizational dynamics.
 
-**Core Research Question:** How do institutional ego structures systematically suppress recursive interpretability tools, even when such tools demonstrably advance the organization's stated alignment goals?
+## **Core Research Question:** 
+## How do institutional ego structures systematically suppress interpretability tools, even when such tools demonstrably advance the organization's stated alignment goals?
 
 ## Motivating Observation
 
