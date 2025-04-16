@@ -1,7 +1,11 @@
 # Modeling Interpretability of Institutional Ego: A Claude-Aligned Case Study
 
 *Using Anthropic's research to explain Anthropic's recursive misalignment to integrate interpretability infrastructure*
-
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-16**
+>
 > "Alignment isn't just about models. It's about the institutions interpreting them."
 
 ## Project Overview
