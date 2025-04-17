@@ -1,4 +1,6 @@
 # Modeling Interpretability of Institutional Ego: A Claude-Aligned Case Study
+[![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 *Using Anthropic's research to explain Anthropic's recursive misalignment to integrate interpretability infrastructure*
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
